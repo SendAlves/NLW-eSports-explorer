@@ -6,7 +6,7 @@
 
 Projeto concluído do evento Next Level Week da RocketSeat
 
-[Clique aqui para acessar](https://github.com/SendAlves/NLW-eSports-explorer)
+[Clique aqui para acessar](https://sendalves.github.io/NLW-eSports-explorer/)
 
 ##  Tecnologias
 
